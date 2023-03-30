@@ -1,0 +1,50 @@
+.exportContainer {
+    top: 50px;
+
+    .selectConnection {
+        width: 100%;
+    }
+
+    .btnConnection {
+        margin-top: 5px;
+        padding: 0px 5px;
+    }
+
+    .display {
+        .label {
+            font-weight: bold;
+        }
+
+        .inputContainer {
+            margin-top: 5px;
+        }
+    }
+
+    .entitiesConatiner {
+        margin-top: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .entitiesHeader {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 5px;
+        }
+    }
+
+    .fwBold {
+        font-weight: bold;
+    }
+
+    .entitiesBody {
+        div {
+            margin: 14px;
+
+            span {
+                margin-left: 5px;
+            }
+        }
+    }
+}

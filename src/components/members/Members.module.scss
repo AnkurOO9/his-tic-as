@@ -1,0 +1,11 @@
+.membersContainer {
+    margin: 10px;
+    display: flex;
+    gap: 12px;
+
+    .membersSubContainer {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+}

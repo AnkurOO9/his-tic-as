@@ -1,0 +1,10 @@
+.scenarioThreeBody {
+    padding: 0px 10px;
+    height: calc(100vh - 47px);
+    overflow: auto;
+
+    .tableContainer {
+        height: calc(100% - 95px);
+        overflow: auto;
+    }
+}

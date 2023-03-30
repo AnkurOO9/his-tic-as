@@ -1,0 +1,10 @@
+.scenarioTwoContainer {
+    position: absolute;
+    top: 10px;
+    width: calc(100% - 250px);
+    left: 250px;
+
+    .scenarioTwoBody {
+        display: flex;
+    }
+}
